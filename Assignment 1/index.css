@@ -1,0 +1,64 @@
+hr {
+    color: #B02E33;
+}
+body {
+    color: #0c0c1c
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+a:active {
+    color: black;
+    text-decoration: none;
+}
+
+.main-section-header {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: #B02E33;
+}
+.logo {
+    width: 24px; 
+    height: 24px;
+}
+.col-logo {
+    width: 24px; 
+    height: 24px; 
+    margin-right: 5;
+}
+.other-owner-info {
+    color: white; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 14;
+}
+.col-computer-skills {
+    margin-bottom: 3%; 
+}
+
+#owner-name-surname {
+    color: white; 
+    font-style: normal; 
+    font-weight: 500; 
+    font-size: 24px;
+}
+#owner-occupation {
+    color: white; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 20;
+}
